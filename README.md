@@ -127,3 +127,4 @@ blind_assist/
 - `opencv-python` — Camera & display
 - `pyttsx3` — Offline text-to-speech
 - `numpy` — Array operations
+# blind-assist
