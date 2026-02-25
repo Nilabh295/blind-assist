@@ -1,11 +1,15 @@
-[ WARN:0@7.997] global cap_v4l.cpp:914 open VIDEOIO(V4L2:/dev/video0): can't open camera by index
-[video4linux2,v4l2 @ 0x55d21f98e900] ioctl(VIDIOC_G_INPUT): Inappropriate ioctl for device
-[ERROR:0@7.999] global obsensor_uvc_stream_channel.cpp:163 getStreamChannelGroup Camera index out of range
 [1/2] Loading YOLO model …
       Model ready: yolov8n.pt
 [2/2] Opening camera …
-[ERR] Camera not found!
+      Camera ready
  * Serving Flask app 'app'
  * Debug mode: off
-Address already in use
-Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.100:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [26/Feb/2026 02:14:44] "GET /socket.io/?EIO=4&transport=polling&t=PoMZ0CR HTTP/1.1" 200 -
+127.0.0.1 - - [26/Feb/2026 02:14:44] "POST /socket.io/?EIO=4&transport=polling&t=PoMZ0Ck&sid=YS4vUI39U4vsCDKkAAAA HTTP/1.1" 200 -
+127.0.0.1 - - [26/Feb/2026 02:14:44] "GET /socket.io/?EIO=4&transport=polling&t=PoMZ0Co&sid=YS4vUI39U4vsCDKkAAAA HTTP/1.1" 200 -
+127.0.0.1 - - [26/Feb/2026 02:14:44] "GET /socket.io/?EIO=4&transport=polling&t=PoMZ0D8&sid=YS4vUI39U4vsCDKkAAAA HTTP/1.1" 200 -
