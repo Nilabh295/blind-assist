@@ -1,0 +1,11 @@
+[ WARN:0@7.997] global cap_v4l.cpp:914 open VIDEOIO(V4L2:/dev/video0): can't open camera by index
+[video4linux2,v4l2 @ 0x55d21f98e900] ioctl(VIDIOC_G_INPUT): Inappropriate ioctl for device
+[ERROR:0@7.999] global obsensor_uvc_stream_channel.cpp:163 getStreamChannelGroup Camera index out of range
+[1/2] Loading YOLO model …
+      Model ready: yolov8n.pt
+[2/2] Opening camera …
+[ERR] Camera not found!
+ * Serving Flask app 'app'
+ * Debug mode: off
+Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.

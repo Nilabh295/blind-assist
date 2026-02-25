@@ -1,0 +1,7 @@
+Found existing installation: torch 2.10.0+cpu
+Uninstalling torch-2.10.0+cpu:
+  Successfully uninstalled torch-2.10.0+cpu
+Found existing installation: torchvision 0.25.0
+Uninstalling torchvision-0.25.0:
+  Successfully uninstalled torchvision-0.25.0
+WARNING: Skipping torchaudio as it is not installed.
